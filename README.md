@@ -1,2 +1,2 @@
-# ticket
-this is mainly mobile app that i used for event ticket selling so i will deploy data base by tomorow
+# experimental
+this is my website build file just trying new suff 
